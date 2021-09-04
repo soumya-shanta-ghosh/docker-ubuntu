@@ -47,19 +47,13 @@ docker exec -it ubuntu bash
 
 * `JAVA_HOME` - The JAVA_HOME environment variable is set.
 
-#### Useful File Locations
+## Usuful tools and softwares already installed in the image 
 
-* `/some/special/script.sh` - List special scripts
-  
-* `/magic/dir` - And also directories
+* OpenJDK 8
+* Python v3.8.10
+* Apache Maven v3.6.3
 
-## Built With
-
-* List the software v0.1.3
-* And the version numbers v2.0.0
-* That are in this container v0.3.2
-
-## Find Us
+## Find Me
 
 * [GitHub](https://github.com/soumya-shanta-ghosh/docker-ubuntu)
 
