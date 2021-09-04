@@ -53,9 +53,9 @@ docker exec -it ubuntu bash
 * Python v3.8.10
 * Apache Maven v3.6.3
 
-## Find Me
+## DockerHub link
 
-* [GitHub](https://github.com/soumya-shanta-ghosh/docker-ubuntu)
+* [DockerHub](https://github.com/soumya-shanta-ghosh/docker-ubuntu)
 
 ## Author
 
