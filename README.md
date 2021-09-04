@@ -55,7 +55,7 @@ docker exec -it ubuntu bash
 
 ## DockerHub link
 
-* [DockerHub](https://github.com/soumya-shanta-ghosh/docker-ubuntu)
+* [DockerHub](https://hub.docker.com/r/soumyashantaghosh/ubuntu)
 
 ## Author
 
