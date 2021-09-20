@@ -52,6 +52,11 @@ docker exec -it ubuntu bash
 * OpenJDK 8
 * Python v3.8.10
 * Apache Maven v3.6.3
+* wget
+* curl
+* git
+* nano
+* vim
 
 ## DockerHub link
 
